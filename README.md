@@ -1,3 +1,24 @@
+# How to Use the project
+Install all the dependencies
+dependencies:
+        "@iconscout/react-unicons": "^1.1.6",
+        "@testing-library/jest-dom": "^5.16.4",
+        "@testing-library/react": "^13.3.0",
+        "@testing-library/user-event": "^13.5.0",
+        "luxon": "^2.4.0",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-scripts": "5.0.1",
+        "react-toastify": "^9.0.2",
+        "web-vitals": "^2.1.4"
+      
+devDependencies":
+        "autoprefixer": "^10.4.7",
+        "postcss": "^8.4.14",
+        "tailwindcss": "^3.0.24"
+
+Change my API key from yours and add it to weatherService.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
